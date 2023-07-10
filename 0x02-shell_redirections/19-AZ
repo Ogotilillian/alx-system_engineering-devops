@@ -1,2 +1,2 @@
 #!/bin/bash
-tro "A" "Z" | tro "A" "E"
+tro "A" "c" | tro "A" "e"
